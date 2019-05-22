@@ -1,0 +1,4 @@
+Output of a project with SAS Enterprise Miner and SAS base.
+This dataset is a subset of the 1987 National Indonesia Contraceptive Prevalence Survey. 
+The samples are married women who were either not pregnant or do not know if they were at the time of interview.
+The problem is to predict the current contraceptive method choice (no use, use) of a woman based on her demographic and socio-economic characteristics.
